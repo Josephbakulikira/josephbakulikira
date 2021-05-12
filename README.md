@@ -38,14 +38,6 @@
 ---
 
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Joseph Auctux's GitHub Stats" src="https://github-readme-stats.josephbakulikira.vercel.app/api?username=josephbakulikira&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://www.auctux.com/
 [twitter]: https://twitter.com/auctux
 [youtube]: https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA
