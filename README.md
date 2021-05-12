@@ -1,20 +1,48 @@
 ![panelAuctux](https://user-images.githubusercontent.com/48150537/117349999-a8e26180-aec9-11eb-858d-7939428c5a9b.png)
-#
-<p align="center">
-    Lots and lots of random projects
-</p>
+### Hi there, I'm Joseph - aka [Auctux][website] 👋
 
-#
-<p align="center">
-  <a href="https://www.auctux.com/" align="center">website</a>
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA" align="center">youtube channel</a>
-  <img src='https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png?raw=true' width='15 px' />
-</p>
-<p align="center">
-  <a href="https://twitter.com/auctux" align="center">twitter-auctux</a>
-</p>
-<p align="center">
-  <a href="https://twitter.com/JosephBakl" align="center">twitter-joseph</a>
-</p>
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][visualizations]
+
+<br />
+<br />
+
+---
+
+
+➡️ [more videos...](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
+
+---
+
+### 📕 Blog Posts
+
+
+➡️ [latest blog posts...](https://www.auctux.com/projects)
+
+---
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Joseph Auctux's GitHub Stats" src="https://github-readme-stats.josephbakulikira.vercel.app/api?username=josephbakulikira&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://www.auctux.com/
+[twitter]: https://twitter.com/auctux
+[youtube]: https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA
+[instagram]: https://www.instagram.com/auctux_com/
+[visualizations]: https://www.youtube.com/watch?v=n9XfsSDDhCI&list=PLrt2QbCqhwC8YpcdAnrSahtZ0mOGY9Oz4
