@@ -1,6 +1,7 @@
 ![panelAuctux](https://user-images.githubusercontent.com/48150537/117349999-a8e26180-aec9-11eb-858d-7939428c5a9b.png)
 ### Hi there, I'm Joseph - aka [Auctux][website] 👋
 
+Youtube Channel: https://www.youtube.com/c/Auctux
 
 ### Connect with me:
 
