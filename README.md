@@ -1,5 +1,5 @@
 ![panelAuctux](https://user-images.githubusercontent.com/48150537/117349999-a8e26180-aec9-11eb-858d-7939428c5a9b.png)
-### Hi there, My name is Joseph Bakulikira - aka [Auctux][website] 👋 , i'm just a random guy, who likes to play piano , and code.. always down to work on random project 
+### Hi there, My name is Joseph Bakulikira - aka [Auctux][website] 👋 , i'm just a random guy, who likes to play piano and chess , I also love to code.. always down to work on random project 
 
 Youtube Channel: https://www.youtube.com/c/Auctux
 
