@@ -6,7 +6,8 @@
 - ⚡ javascript
 - ⚡ GLSL and HLSL
 - ⚡ Html CSS , MERN Stack
-- 💻 Currently learning Assembly and flutter(dart)
+- 🌱 Currently learning Assembly and flutter(dart)
+- 💻 Ask me anything (here)[https://github.com/Josephbakulikira/josephbakulikira/issues]
 
 Youtube Channel: https://www.youtube.com/c/Auctux
 
