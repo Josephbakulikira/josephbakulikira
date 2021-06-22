@@ -1,5 +1,12 @@
-
-### Hi there, My name is Joseph Bakulikira - aka [Auctux][website] 👋 , i'm just a random guy, who likes to code.. always down to work on random project 
+### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
+#### Programming languages
+- ⚡ Python
+- ⚡ C++
+- ⚡ C#
+- ⚡ javascript
+- ⚡ GLSL and HLSL
+- ⚡ Html CSS , MERN Stack
+- 💻 Currently learning Assembly and flutter(dart)
 
 Youtube Channel: https://www.youtube.com/c/Auctux
 
