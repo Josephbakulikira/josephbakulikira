@@ -1,13 +1,16 @@
 ### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
-#### Programming languages
-- ⚡ Python
-- ⚡ C++
-- ⚡ C#
-- ⚡ javascript
-- ⚡ GLSL and HLSL
-- ⚡ Html CSS , MERN Stack
-- 🌱 Currently learning Assembly and flutter(dart)
-- 💻 Ask me anything (here)[https://github.com/Josephbakulikira/josephbakulikira/issues]
+- 🔭 Always working on random Projects
+- 🌱 I’m currently learning Assembly, Flutter and SQL.
+- 💬 Ask me about anything [here](https://github.com/Josephbakulikira/Josephbakulikira/issues)
+
+**Languages and Tools:** 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 Youtube Channel: https://www.youtube.com/c/Auctux
 
@@ -38,7 +41,6 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 ➡️ [latest blog posts...](https://www.auctux.com/projects)
 
 ---
-
 
 [website]: https://www.auctux.com/
 [twitter]: https://twitter.com/auctux
