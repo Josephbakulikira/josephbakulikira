@@ -16,7 +16,9 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 [<img align="left" alt="auctux | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="auctux | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-   -> mail:bakulikiraj@gmail.com
+<br/>
+
+ -> MAIL : bakulikiraj@gmail.com
 
 ➡️ [Youtube videos...](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
 
