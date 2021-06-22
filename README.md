@@ -10,8 +10,8 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 [<img align="left" alt="auctux | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="auctux | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbakulikira&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephbakulikira&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephbakulikira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
