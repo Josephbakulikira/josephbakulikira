@@ -3,6 +3,12 @@
 
 Youtube Channel: https://www.youtube.com/c/Auctux
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephbakulikira&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephbakulikira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+
 ### Connect with me:
 
 [<img align="left" alt="auctux.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -11,11 +17,6 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 [<img align="left" alt="auctux | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephbakulikira&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephbakulikira&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
-
 
 ➡️ [Youtube videos...](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
 
