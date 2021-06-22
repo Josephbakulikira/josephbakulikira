@@ -20,7 +20,6 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephbakulikira&langs_count=12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-
 ### Connect with me:
 
 [<img align="left" alt="auctux.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
