@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
 - 🔭 Always working on random Projects
-- 🌱 I’m currently learning Assembly, Flutter and SQL.
+- 🌱 I’m currently learning Assembly, Flutter and SQL
 - 💬 Ask me about anything [here](https://github.com/Josephbakulikira/Josephbakulikira/issues)
 
 **Languages and Tools:** 
@@ -11,7 +11,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blockchain/blockchain.png"></code>
 
 Youtube Channel: https://www.youtube.com/c/Auctux
 
@@ -37,9 +36,7 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 
 ### 📕 Blog Posts
 
-
 ➡️ [latest blog posts...](https://www.auctux.com/projects)
-
 ---
 
 [website]: https://www.auctux.com/
