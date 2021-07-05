@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
 - 🔭 Always working on random Projects
-- 🌱 I’m currently learning Assembly, Flutter and SQL
+- 🌱 I’m currently learning Assembly
 - 💬 Ask me about anything [here](https://github.com/Josephbakulikira/Josephbakulikira/issues)
 
 **Languages and Tools:** 
