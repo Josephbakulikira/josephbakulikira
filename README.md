@@ -31,7 +31,7 @@ Youtube Channel: https://www.youtube.com/c/Auctux
 ➡️ [Youtube videos...](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
 
 ---
- ###  -> MAIL : bakulikiraj@gmail.com
+ #### MAIL : bakulikiraj@gmail.com
 ---
 ### 📕 Blog Posts
 
