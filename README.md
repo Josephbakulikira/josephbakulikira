@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
 - 🔭 Always working on random Projects
-- 🌱 I’m currently learning Assembly
+- 🌱 I’m currently learning Elixir & Phoenix
 - 💬 Ask me about anything [here](https://github.com/Josephbakulikira/Josephbakulikira/issues)
 
 **Languages and Tools:** 
