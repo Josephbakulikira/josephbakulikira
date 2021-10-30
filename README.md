@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
 - 🔭 Always working on random Projects
-- 🌱 I’m currently learning Elixir & Phoenix <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+- 🌱 I’m currently learning Elixir & Phoenix <code><img height="20" src="https://w1.pngwing.com/pngs/443/101/png-transparent-phoenix-bird-elixir-functional-programming-programming-language-erlang-beam-visual-studio-code-ruby.png"></code>
 - 💬 Ask me about anything [here](https://github.com/Josephbakulikira/Josephbakulikira/issues)
 
 **Languages and Tools:** 
