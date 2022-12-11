@@ -7,6 +7,7 @@
 - 💬 Ask me about **Computer Graphic , Game dev , Mern Stack, SFML, Bevy(Rust), Unity, Software Architecture**
 - 📫 How to reach me **bakulikira@gmail.com**
 - ⚡ Also i love playing chess and i'm learning how to play piano 😉
+- 🔭 Portfolio [Joseph Portfolio](https://josephbakulikira.vercel.app/)
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbakulikira&theme=dark&show_icons=true)
 ---
