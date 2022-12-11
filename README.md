@@ -62,9 +62,9 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
 </p>
  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 <hr clear="both"> 
- <br/><br/><br/>
+ <br/>
 <p align="center">
 <a href="https://github.com/abhishekpandey108"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephbakulikira&theme=dracula" />
@@ -76,12 +76,10 @@
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=josephbakulikira&theme=vue" alt=""/> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josephbakulikira&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
 
-<hr clear="both">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
