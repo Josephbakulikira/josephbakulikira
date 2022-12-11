@@ -1,52 +1,32 @@
-### Hi there 👋, My name is Joseph Bakulikira - aka [Auctux][website]
-- 🔭 Always working on random Projects
-- 🌱 I’m currently learning Elixir & Phoenix <code><img height="20" src="https://w1.pngwing.com/pngs/443/101/png-transparent-phoenix-bird-elixir-functional-programming-programming-language-erlang-beam-visual-studio-code-ruby.png"></code>
-- 💬 Ask me about anything [here](https://github.com/Josephbakulikira/Josephbakulikira/issues)
-
-**Languages and Tools:** 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-
-<code><img height="20" src="https://mpng.subpng.com/20180329/tkw/kisspng-unity-technologies-game-engine-video-game-developm-unity-5abcdd5bbc4866.8644992215223268757712.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<h1 align="center">Hi there👋, my name is Joseph Bakulikira</h1>
+<h3 align="center">A Game dev and Full stack developer.</h3>
 
 
----
-Youtube Channel: https://www.youtube.com/c/Auctux
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbakulikira&theme=dark&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephbakulikira&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephbakulikira&langs_count=12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephbakulikira&show_icons=true&locale=en&layout=compact" alt="josephbakulikira" /></p>
 
-### Connect with me:
 
-[<img align="left" alt="auctux.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="auctux | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="auctux | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="auctux | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=josephbakulikira&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-e" /> </p>
 
-➡️ [Youtube videos...](https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephbakulikira" alt="josephbakulikira" /></a> </p>
 
----
- #### MAIL : bakulikiraj@gmail.com
----
-### 📕 Blog Posts
+<p align="left"> <a href="https://twitter.com/JosephBakl" target="blank"><img src="https://img.shields.io/twitter/follow/JosephBakl?logo=twitter&style=for-the-badge" alt="JosephBakl" /></a> </p>
 
-➡️ [latest blog posts...](https://www.auctux.com/projects)
----
+- 🌱 I’m currently learning Rust
 
-[website]: https://www.auctux.com/
-[twitter]: https://twitter.com/auctux
-[youtube]: https://www.youtube.com/channel/UCjPk9YDheKst1FlAf_KSpyA
-[instagram]: https://www.instagram.com/auctux_com/
-[visualizations]: https://www.youtube.com/watch?v=n9XfsSDDhCI&list=PLrt2QbCqhwC8YpcdAnrSahtZ0mOGY9Oz4
+- 👨‍💻 All of my projects are available at [https://github.com/josephbakulikira?tab=repositories](https://github.com/josephbakulikira?tab=repositories)
+
+- 📝 Youtube channel [Auctux](https://www.youtube.com/@Auctux)
+
+- 💬 Ask me about **Computer Graphic , Game dev , Mern Stack, SFML, Bevy(Rust), Unity, Software Architecture**
+
+- 📫 How to reach me **bakulikira@gmail.com**
+
+- ⚡ Also i love playing chess and i'm learning how to play piano 😉
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Auctux Blog](https://www.auctux.com/authors/joseph-bakulikira)
