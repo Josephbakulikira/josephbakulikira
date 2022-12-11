@@ -13,7 +13,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephbakulikira" alt="josephbakulikira" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/JosephBakl" target="blank"><img src="https://img.shields.io/twitter/follow/JosephBakl?logo=twitter&style=for-the-badge" alt="JosephBakl" /></a> </p>
 
 - 🌱 I’m currently learning Rust
 
