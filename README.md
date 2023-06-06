@@ -26,10 +26,15 @@
 <p >
 <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/csharp%20-%2fe3ff26.svg?&style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
-  
+ <img src="https://img.shields.io/badge/rust%20-%23ffB222.svg?&style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/go lang%20-%2315f2B6.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/javascript%20-%23155211.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/c++%20-%23155211.svg?&style=for-the-badge&logo=cplus&logoColor=white" />&nbsp;&nbsp;
+ 
+ 
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ 
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
  <br/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
