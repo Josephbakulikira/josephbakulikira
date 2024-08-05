@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/josephbakulikira?tab=repositories](https://github.com/josephbakulikira?tab=repositories)
 - 📝 Youtube channel [Auctux](https://www.youtube.com/@Auctux)
 - 💬 Ask me about **Computer Graphic , Game dev , Mern Stack, SFML, Bevy(Rust), Unity, Software Architecture**
-- 📫 How to reach me **bakulikira@gmail.com**
+- 📫 How to reach me **bakulikiraj@gmail.com**
 - ⚡ Also i love playing chess and i'm learning how to play piano 😉
 - 🔭 Portfolio [Joseph Portfolio](https://josephbakulikira.vercel.app/)
 
