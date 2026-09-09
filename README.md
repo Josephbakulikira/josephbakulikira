@@ -22,11 +22,3 @@
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=josephbakulikira&theme=vue" alt=""/> </p>
  <br/>
  
-
-
-<hr clear="both">
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Auctux Blog](https://www.auctux.com/authors/joseph-bakulikira)
